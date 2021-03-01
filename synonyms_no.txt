@@ -20,7 +20,7 @@ adresse,besøksadresse,postadresse
 epost,e-post
 juss,jus
 
-# Quickfixes for konkrete henvendelser:
+# UiO specific
 valg,val
 rektorvalg,rektorval
 røyst,stemme
@@ -30,32 +30,15 @@ podcast,podkast
 exphil,ex.phil
 hr-porten,hrporten,hr-portalen,hrportalen,hrportal,hr-portal
 bytte,byte
-
-# Norgeshistorie.no: test på quick-fix for mangelfull stemming av "-erne"
-# flertallsform.
 haugianer,haugianar,haugianere,haugianarar,haugianerne,haugianarane
-
-# RT #1830428
 bekreftelse,stadfesting
 bekreftelser,stadfestingar,stadfestinger
-
-# tilbakemeldinger, norgeshistorie.no
 emansipasjon,kvinneemansipasjon
 frostating,frostatingsloven
-
-# RT 1206427
 styrevalg,styreval
-
-# Fiks etter skifte av filter (SOK-258):
 ordbok,ordbøker
-
-# SOK-401 Synonym
 studiekort,studentkort
-
-# SOK-447/RT 2781714
 rektorskolen,rektorutdanningen
-
-# RT 3077071
 sammensatt,samansett
 
 # Source: http://nn.wikipedia.org/wiki/Wikipedia:Gode_nynorskord
