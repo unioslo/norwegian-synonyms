@@ -1,0 +1,537 @@
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+
+eg,jeg
+ikkje,ikke
+lesesal,lesesaler,leseplasser,leseplass
+
+adresse,besøksadresse,postadresse
+epost,e-post
+juss,jus
+
+# Quickfixes for konkrete henvendelser:
+valg,val
+rektorvalg,rektorval
+røyst,stemme
+nyvalg,nyval
+velge,velje,velja
+podcast,podkast
+exphil,ex.phil
+hr-porten,hrporten,hr-portalen,hrportalen,hrportal,hr-portal
+bytte,byte
+
+# Norgeshistorie.no: test på quick-fix for mangelfull stemming av "-erne"
+# flertallsform.
+haugianer,haugianar,haugianere,haugianarar,haugianerne,haugianarane
+
+# RT #1830428
+bekreftelse,stadfesting
+bekreftelser,stadfestingar,stadfestinger
+
+# tilbakemeldinger, norgeshistorie.no
+emansipasjon,kvinneemansipasjon
+frostating,frostatingsloven
+
+# RT 1206427
+styrevalg,styreval
+
+# Fiks etter skifte av filter (SOK-258):
+ordbok,ordbøker
+
+# SOK-401 Synonym
+studiekort,studentkort
+
+# SOK-447/RT 2781714
+rektorskolen,rektorutdanningen
+
+# RT 3077071
+sammensatt,samansett
+
+# Source: http://nn.wikipedia.org/wiki/Wikipedia:Gode_nynorskord
+#abonnement,abonnere,tinging,tinge
+adgang,tilgang,tilgjenge,åtkoma,,åtgang
+adkomst,atkomst,tilgjenge,tilkomst
+#adlyde,lyda
+advarsel,åtvaring
+aktelse,vørdnad
+albue,olboge
+allerede,allereie
+allfarvei,ålmannveg,allmanveg
+allmennheten,ålmenta,allmenta
+anbefale,tilrå
+anbefalelsesverdig,tilrådeleg
+anbefaling,tilråding
+#andel,part
+andektig,høgtideleg
+andakt,bønestund
+#anerkjennelse,heider,ros
+anfall,åtak
+#anføre,leie
+anførselstegn,sitatmerke,hermeteikn,gåsauge,gåseøyne
+angi,melde
+angiver,tystar
+angrep,åtak
+angår,vedkjem
+angående,andsynes
+anholde,arrestere
+anklage,skulde
+ankomst,framkomst
+anledning,høve
+anlegg,bygg
+anlegge,legge,bygge
+anleggsvirksomhet,byggeverksemd,byggearbeid,anleggsverksemd
+anmelde,melda
+anmeldelse,kritikk
+anmerkning,merknad
+anmode,oppmode
+annerledes,annleis
+anrike,opprike
+#anselig,monaleg,viktig
+ansatt,tilsett
+ansette,tilsetje
+anseelse,vørde,respekt,akta
+ansikt,andlet
+anskaffelse,innkjøp,nyskaffing
+anstalt,institusjon
+anstrenge,slite,streve
+anstrengelse,slit,strev
+ansøkning,søknad
+antakelse,førehandstru,forventing
+antakelig,kanskje,truleg,venteleg,antakeleg,likleg
+anvendelse,bruksmåte,bruk
+anvendt,brukt
+arbeiderbevegelse,arbeidarrørsle
+arbeidsledighet,arbeidsløyse
+arbeidstillatelse,arbeidsløyve
+atferd,åtferd
+avgjørelse,avgjerd,avgjersle
+avgjørbarhet,avgjerdsdugleik,avgjerlegheit
+avsindig,vitlaus
+#avskygning,nyanse,islett,svip
+avstemmelse,avstemning,røysting,avrøysting
+avverge,hindre,motverke,stogge,avverje
+#baun,vete,varde
+bearbeiding,omarbeiding
+bebreide,klandre,skulde,laste
+beboer,ibuar,husbuar
+bebyggelse,busetnad
+bedagelig,makeleg
+#bedaget,gammal,gamal,røynd
+bederve,skjemme,øydeleggje
+bedervet,skjemd,dårleg,helseskadeleg,øydelagt
+bedømme,avgjere,skåre,rangere
+befaring,synfaring
+befinne,vere
+befolkning,folkesetnad,folketal,folkemengd
+befolkningstetthet,folketettleik
+#beger,bekar
+begivenhet,storhending,storhende
+begivenhetsrik,hendingsrik
+begrave,gravleggja
+begravelse,gravferd
+begrense,avgrense
+begrenset,minka,avgrensa
+begrep,omgrep
+begrunne,grunngje
+begynne,byrja,begynna
+begynnelse,byrjing,start
+#begjære,be om
+#behag,velvere,glede,hugnad,lyst
+#behage,lyste
+behagelig,hugnadsam
+behandle,handsame
+beherske,meistra
+#beholde,ta vare på,halda på
+beklage,orsake
+#bekostning,så det går ut over
+bekostning,rekning
+bekrefte,stadfeste,sannkjenne,prove
+bekvemmelighet,stas
+#bekvemmelighetsårsaker,årsakar til trivnad
+bekymret,ottesam,engsta,uroleg
+#belastet,plaga med,utsat for
+beliggenhet,lægje,plassering
+#beliggende,ligg ved
+beleire,omlægre,omleire,omringe,kringsetje
+belønning,attergjeld,løn,godtgjersle
+belønne,løna
+#bemanne,manne
+#bemerke,merka
+bemerke,nemna,leggja til
+benevnelse,nemning
+beordre,kommandere,fråordre
+beretning,soge,forteljing
+berettiget,rettkomen
+beruset,rusa
+beryktet,illgjeten,berykta
+#berømmelse,ry
+berømt,vidkjend,namnkjend,vidgjeten,fræg,namngjeten
+beskjed,melding
+#klar beskjed,klår melding = klar melding
+beskrive,skildra
+beskrivelse,skildring,omtale,framstilling
+beskylde,skulda
+beskytte,verne
+besittelse,eige,eign
+beslutning,avgjerd,vedtak
+bestemme,avgjere,vedta,fastsetje
+bestemmelse,føresegn
+bestikke,muta
+#bestille,tinge
+bestanddel,komponent
+#bestå,stå ved lag
+#bestå av,bestå av,vera samansett av
+besøk,vitjing
+besøke,vitje
+#betale,gjelda,greia
+betegnelse,nemning
+#betennelse,brune,brann
+#betimelig,til rett tid,som det skal vera,høveleg/rimeleg
+betingelse,vilkår,føresetnad
+betinget,vilkårsbunden,årsaksbunden,vilkårsgjeven
+#betinget dom,vilkårsdom
+#betro,overlata
+betro,sannkjenna,vedgå
+bety,tyde
+#bety,vere viktig,har mykje å seie,medføre,vil seie
+betydelig,monaleg
+betydning,tyding
+betydningsfull,viktig
+bevandret,velreist
+#bevare,ta vare på,verne
+#bevege,røyve,røre,flytta på seg
+bevegelse,rørsle
+bevegelseshemmet,rørslehemma,rørslehindra
+#beveget,rørt,rørd,gripen
+bever,bjor
+bevilge,løyve
+bevilgning,løyving
+bevis,prov,vitnemål
+beviselig,visseleg,vitnefast,faktisk
+bevissthet,medvit
+bevisstløs,medvitslaus
+bilag,tillegg,vedlegg
+bistå,hjelpe
+bolig,bustad
+budskap,bodskap
+#bøyle,bøyel
+#canyon,gjel
+catwalk,motemolo
+debatt,drøfting,ordskifte
+deilig,lekker,framifrå,gjæv
+diskusjon,drøfting,ordskifte
+dybdekontroll,djupnekontroll,djupnkontroll
+dobbelthet,todeling,dualisme
+#dog,do,likevel,endå
+enhet,eining,einskap
+enig,samd,einig
+enighet,semje
+ensomhet,einsemd
+enstemmig,samrøystes
+etterprøves,testast,prøvast
+evighet,æve
+#fantasy-litteraturen,fabelprosa
+fantasi,hugleik
+ferdighet,dugleik,evne
+filtrere,filtrere,sile,reinske
+#FN,SN,FN
+forbehold,atterhald
+forberede,førebu
+forbindelse,samband,sambinding
+forbilledlig,framifrå,mønstergod,føredømeleg
+forbrytelse,brotsverk,lovbrot
+forbryter,brotsmann,brotskvinne,lovbrytar
+#forbund,samskipnad
+fordøyelse,melting
+#forening,samskipnad,
+#forekomme,hender,går føre seg
+forent,sameint,samla
+#forente nasjoner,De,Dei sameinte nasjonane
+foretrekke,føretrekkja
+forgjengelighet,forgjengelegdom
+#forhandle,,
+#forholde,stelle seg
+forhold,tilhøve,høve
+forholdsvis,ganske,nokså,relativt
+forhøye,forhøgja,høgja,auka
+forpliktelse,plikt,andsvar,skyldnad
+forløp,utvikling,framvokster
+forrige,førre
+forseelse,misferd
+forsiktig,varsam,varleg
+forsiktighet,varsemd,forsiktigheit
+forskjell,skilnad,ulikskap
+forskjellig,ulik
+forslag,framlegg,alternativ
+forståelse,forståing
+fortegnelse,oversyn
+fortrinnsrett,førerett
+fortsette,halde fram
+forurense,ureine,forureine
+#forutinntatthet >
+forutsetning,føresetnad
+#forutsette,gå ut frå,ha som føresetnad
+forutsigbar,føreseieleg
+#forhåpentligvis,vonleg,forhåpentlegvis vera von å
+#framføre,visa/syna fram,syngja,spela,tolka
+frihet,fridom
+#fuktighet,fukt
+fullføre,avslutte
+følsom,kjensleg
+følelse,kjensle
+#får,sau
+#gjengi >gje att ,gjenta
+gjenopprette, atterreise
+gjenvalg,attval
+gjenværende,attståande,resten
+grunnlegge,tufte,tyfte,grunnleggje,etablere,danne
+grusom,hardhjarta,nådelaus,frykteleg,stygg,fæl,fælsleg
+grådighet,havesjuke,havesykje,griskleik,grådugskap
+gyldig,gjeldande
+gyldighet,gildskap
+#habil, før,dyktig, gild
+#hardhet,hardleik
+#heldig,heppen
+helhet,heilskap
+helhetlig,heilsleg,heilstøypt,samla
+hemmelig,løynd,løynleg,hemmeleg
+hemmelighet,løyndom
+hendelse,hending,hende
+henholdsvis,høvesvis
+#i henhold til,i samsvar med,med heimel i
+hensikt,meining,føremål
+#mot sin hensikt >
+hensiktsmessig,føremålstenleg,tenleg
+hjemmeside,heimeside,nettstad
+hengivenhet,godhug,velvilje
+#henlegge,leggje bort
+#henvende,ta kontakt med,vende seg til
+henvise,vise til
+#hukommelse,hugs el.,minne
+#henspille,peika,spela på
+hensyn,omsyn
+#hentyde,peika,leia
+holdbarhet,traustleik
+holdbarhetsargument,traustleiksargument
+#igjen,att
+#imidlertid,men,likevel
+inhabil,uskikka,ugild
+innadrettet,innåtretta
+innflytelse,innverknad
+#innflytelsesrike,mektige,viktige
+innrømme,vedgå
+#innta,takast inn
+#innta,ta
+jarnsambinding,jarnforbindelse
+#Jernforbindelse - jernsambinding - om jarn-/jernoksidar og jarn-/jernhydroksidar
+#«-kallelse»,«-kalling»
+#kar,kjerald
+katedral,domkyrkje
+#Kirkenes verdensråd,Kyrkjeverdsrådet
+#kile,kitla
+kjennelse,orskurd
+kjærlighet,kjærleik
+klarhet,klårleik
+#få klarhet over,klårgjere = klargjere
+kollaps,samanbrot
+kollapse,bryta saman
+kondolant,samhugar
+kors,kross
+#korthet,vera kortfatta el. stutt
+#kvestelse,vank,skade
+leilighet,husvære,leilegheit
+legemsbeskadigelse,lekamsskading
+#leir,læger
+#liflig,ljuvleg,ljuv
+#ligne,likne,vera lik
+likhet,likskap
+likhetstegn,likskapsteikn
+lille,litle,vesle,vetle
+#linje,line eller linje
+retningslinje,retningsline
+lyd,ljod
+lys,ljos
+lønnsomhet,lønsemd
+marked,marknad
+meddele,kunngjere
+medlidenhet,medkjensle
+medvirkning,medverknad
+menighet,meinigheit,kyrkjelyd
+midlertidig,mellombels
+misforståelse,mistyding
+mislighold,mishald
+mistenksomhet,mistru
+#mot,mod
+motsetning,motsetnad
+mulighet,høve,sjanse
+mykhet,mjukleik
+myndighet,styresmakt,mynde
+månedlig,månadviss
+nabo,granne
+naiv,godtruande,truskuldig
+#nasjon,tjod
+#naturlighet,venta,vera naturleg
+nyhet,nyhende nyheit,tidend,tidende
+nylig,nyleg,nyst,nyss
+nytelse,nyting
+nærhet,nærleik
+nøyaktighet,grannsemd,presisjon
+nødvendigvis,naudsynlegvis,sjølvsagt
+oksygen,surstoff
+ombudsmann,ombodsmann
+omgivelse,omgivnad,omgjevnad
+omkostning,kostnad
+#omsorg,omsut eller omsorg
+omstendighet,omstende,tilhøve
+#ond,vond,ill
+oppdragelse,oppseding,oppfostring
+oppfordre,oppmode,oppfordre
+opplevelse,oppleving
+#opprettholde,halda fast på,ved lag
+oppmerksomhet,merksemd,gaumsemd
+opprinnelse,opphav,utspring
+optimisme,bjartsyn
+optimistisk,bjartsynt
+#organisasjon,skipnad
+ovenfor,ovanfor
+#overfor,andsynes, imot,overfor
+oversette,omsetje,setja
+oversettelse,omsetjing
+oversetter,omsetjar
+#original,original,opphavleg,nyfunnen,nyspunnen,frum
+original,særmerkt
+#personlighet,person,karakter
+prisnedsettelse,prisavslag,prisnedslag
+påse,kontrollera
+påtalemyndigheten,påtalemakta
+#påvente> mens ein ventar på, i von om
+regelmessig,regelbunden,regelfast,regelviss,regelrett,symmetrisk
+#regime,styre
+referat,opprit
+refreng,omkved
+#relativt,etter måten
+resterende, attverande
+#restriksjon,restriksjon,regulering,nedskjering ,Sjå Begrensning
+#rett,rett,fleirtal: retter,rettar
+rettferdighet,rettferd
+#ryktes> gå gjetord om,spørjast ,ryktast, komme ut
+rådighet,rådvelde
+saksbehandler,sakshandsamar
+saksbehandling,sakshandsaming
+samvittighet,samvit
+sannhet,sanning
+sannsynlighet,sannsyn
+savn,sakn
+#science fiction,fiksjonsdikting,science fiction
+#seier,siger
+#sekretær,sekretær,skrivar
+#server,tenar
+sikkerhet,tryggleik,sikkerheit
+#å vite med sikkerhet,vera viss/sikker/trygg på, vite for visst
+sikkerhet,sikring,trygging
+sikkerhetskopi,'sikringskopi, ''
+Sikkerhetsrådet,Tryggingsrådet
+skarphet,skarpleik
+#skinne,skjene
+#skinne,skine
+#skjød,fang
+skjønnhet,venleik,skjønnheit
+skjørhet,skøyrheit,skjørheit
+skuffelse,vonbrot
+
+#det var en stor skuffelse:,det var svært skuffande
+#skulder,aksel
+#sortere,sortere,dele inn,ordne etter,ordne i sortar
+stedfortreder,avløysar,vikar
+stivhet,stivleik
+#stole på,stole på,lite på
+#stolt,byrg
+#stolthet,byrgskap,augnestein
+størrelse,storleik
+størrelsesforhold,storleikshøve
+stemme,røyste
+stemmerett,røysterett
+stemmeberettiget,røystefør
+storhet,stordom
+søke,søkje
+svakhet,veikskap
+særdeleshet,særleg
+#tag,merke
+#takk,takk; takket være takk vere; mange takk ~.
+takknemlig,takksam
+takknemlighet,takksemd
+tall,tal
+taushetsplikt,teieplikt
+tegne,teikne
+tetthet,tettleik
+tekstbehandlingsprogram,teksteditor,skriveprogram
+#tenne,kveikje
+tilbake,attende
+tillatelse,løyve
+tiltak,åtgjerd
+#tilbehør,attåt,som høyrer til
+tilfredsstillelse,tilfredsstilling,fullnøying
+tykkelse,tjukn,tjukne,tjukkleik
+uanselig,uviktig
+ufullstendighet,ufullverde
+ufullstendighetsteorem,skortsteorem,skortslæresetning
+#ukentlig,kvar veke
+umiddelbar,spontan,straks
+#umiddelbare tiltak,strakstiltak
+underdanig,undergjeven
+urbefolkning,urfolk
+urettferdighet,urett,urettvise
+#urinere,mige
+urinnvånere,urfolk
+#USA, Sambandsstatane,"statane",USA,USA-amerikansk,sambandsstatsamerikansk
+#utad,utanpå,utantil,der folk kan sjå det,utetter
+uteblivelsesdom,fråversdom,fråværsdom
+utelukke,utelate,ekskludere,utstøyte
+#utgi,gje ut
+utredning,gransking,etterrøking
+utspekulert,utkropen,sløg
+#utsteder,skrivar/utskrivar,teiknar
+uttalelse,fråsegn
+uunnværlig,naudsynt,tarvande
+vann,vatn
+#varig,haldbar,å halde på lenge,å vare lenge,permanent,kronisk,langvarig ,
+varighet,varigheit,varigskap
+vederfares,vederfarast
+#vederfarelse,hending,-- Negativt ladd
+#vederkvege,forfriske,fornye',gjere vel
+#vedrørande >
+vedta,avgjere,fastsetje,godta,akseptere
+veilede,rettleie
+veldedig,samfunnsgagnleg
+veldedighet,velgjerd,velgjerning
+#velge,velger,valgte,valgt; velg!,velje/velja,vel,valde [valte],valt [vald]; velj!/velje! [velja!]
+#viderverdighet,irritasjonsmoment,umake,bry,møde
+vidunderlig,vedunderleg,vedunderlig,makelaus,fantastisk
+virkedag,yrkedag,vyrkedag,kvardag
+virkelighet,røynd,realitet,verkelegheit
+virksomhet,verksemd
+vitenskap,vitskap
+vitterlig,visseleg
+vitterlighetsvitne,provsvitne,sanningsvitne,underskriftsvitne
+ydmyk,audmjuk
+ærbødig,vyrdsam,vørdsam
+ærede,vyrde
+øre,øyre
+øye,auge
+årlig,årvisst,årleg,kvart år
+årvåkenhet,aktsemd
+
+# Source: http://www.sprakradet.no/Sprakhjelp/Raad/Fra_bokmaal_til_nynorsk/
+
+# Source: http://www.sprakradet.no/nb-no/Tema/Sprakbruk-i-staten/Administrativ_nynorsk/Synonymliste-bokmaal-nynorsk/
